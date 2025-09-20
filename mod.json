@@ -1,12 +1,12 @@
 {
-	"geode": "4.5.0",
+	"geode": "4.7.0",
 	"gd": {
 		"android": "2.2074",
 		"ios": "2.2074"
 	},
 	"version": "v1.1.3",
-	"id": "weebify.high-graphics-android",
-	"name": "High Graphics on Mobile",
+	"id": "weebify.high-graphics-ios",
+	"name": "High Graphics on iOS",
 	"developer": "Weebify",
 	"description": "Adds High graphics support for mobile devices",
 	"links": {
@@ -18,3 +18,4 @@
 	"tags": ["universal", "interface", "enhancement", "utility"],
 	"early-load": true
 }
+
